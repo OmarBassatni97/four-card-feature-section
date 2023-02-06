@@ -11,9 +11,9 @@ const Home = () => {
 
       <section className='w-full h-screen'>
         <div className='max-w-[1440px] mx-auto p-16'>
-          <div className='text-center max-w-lg mx-auto pb-12'>
-            <h1 className='text-[30px] opacity-60'>Reliable, efficient delivery</h1>
-            <h1 className='text-[30px] font-semibold'>Powered by Technology</h1>
+          <div className='text-center max-w-lg mx-auto pb-16'>
+            <h1 className='text-[35px] opacity-60'>Reliable, efficient delivery</h1>
+            <h1 className='text-[35px] font-semibold'>Powered by Technology</h1>
             <p className='text-[15px] opacity-60 pt-5'>
               Our Artificial intelligence powered tools use millions of project data points to ensure that your project is successful
             </p>
